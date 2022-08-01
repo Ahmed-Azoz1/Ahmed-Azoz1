@@ -1,13 +1,6 @@
-<style>
-  @media screen and (max-width:500px){
-    .img-width{
-      max-width: 200px;
-      }
-    }
-</style>
 <h1 align="center">Hi 👋, I'm Ahmed Azzoz</h1>
 <h3 align="center">A passionate Full Stack Developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 - 🔭 I’m currently working on **Web Store**
 
